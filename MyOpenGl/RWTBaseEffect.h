@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import <GLKit/GLKit.h>
 @interface RWTBaseEffect : NSObject
 
 @property (nonatomic, assign) GLuint programHandle;

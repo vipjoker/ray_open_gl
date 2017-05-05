@@ -18,6 +18,7 @@
 		8ACAA83F1EBC762200C649B5 /* RWTBaseEffect.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ACAA83B1EBC762200C649B5 /* RWTBaseEffect.m */; };
 		8ACAA8401EBC762200C649B5 /* RWTSimpleFragment.glsl in Resources */ = {isa = PBXBuildFile; fileRef = 8ACAA83C1EBC762200C649B5 /* RWTSimpleFragment.glsl */; };
 		8ACAA8411EBC762200C649B5 /* RWTSimpleVertex.glsl in Resources */ = {isa = PBXBuildFile; fileRef = 8ACAA83D1EBC762200C649B5 /* RWTSimpleVertex.glsl */; };
+		8ACAA8431EBC825200C649B5 /* text.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8ACAA8421EBC825200C649B5 /* text.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		8ACAA83C1EBC762200C649B5 /* RWTSimpleFragment.glsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RWTSimpleFragment.glsl; sourceTree = "<group>"; };
 		8ACAA83D1EBC762200C649B5 /* RWTSimpleVertex.glsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RWTSimpleVertex.glsl; sourceTree = "<group>"; };
 		8ACAA83E1EBC762200C649B5 /* RWTVertex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RWTVertex.h; sourceTree = "<group>"; };
+		8ACAA8421EBC825200C649B5 /* text.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = text.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				8ACAA80B1EBC5FC000C649B5 /* ViewController.h */,
 				8ACAA80C1EBC5FC000C649B5 /* ViewController.m */,
 				8ACAA80E1EBC5FC000C649B5 /* Main.storyboard */,
+				8ACAA8421EBC825200C649B5 /* text.txt */,
 				8ACAA8111EBC5FC000C649B5 /* Assets.xcassets */,
 				8ACAA8131EBC5FC000C649B5 /* LaunchScreen.storyboard */,
 				8ACAA8161EBC5FC000C649B5 /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8ACAA8151EBC5FC000C649B5 /* LaunchScreen.storyboard in Resources */,
+				8ACAA8431EBC825200C649B5 /* text.txt in Resources */,
 				8ACAA8411EBC762200C649B5 /* RWTSimpleVertex.glsl in Resources */,
 				8ACAA8121EBC5FC000C649B5 /* Assets.xcassets in Resources */,
 				8ACAA8401EBC762200C649B5 /* RWTSimpleFragment.glsl in Resources */,

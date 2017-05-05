@@ -10,6 +10,7 @@
 #import <GLKit/GLKit.h>
 @interface ViewController : GLKViewController
 
-
+-(void) setupVertexBuffer;
+-(void) setupShader;
 @end
 
