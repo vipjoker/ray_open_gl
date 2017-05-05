@@ -15,6 +15,7 @@
 		8ACAA8151EBC5FC000C649B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8ACAA8131EBC5FC000C649B5 /* LaunchScreen.storyboard */; };
 		8ACAA8201EBC5FC100C649B5 /* MyOpenGlTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ACAA81F1EBC5FC100C649B5 /* MyOpenGlTests.m */; };
 		8ACAA82B1EBC5FC100C649B5 /* MyOpenGlUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ACAA82A1EBC5FC100C649B5 /* MyOpenGlUITests.m */; };
+		8ACAA8391EBC74A100C649B5 /* Demo Resources in Resources */ = {isa = PBXBuildFile; fileRef = 8ACAA8381EBC74A100C649B5 /* Demo Resources */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		8ACAA8261EBC5FC100C649B5 /* MyOpenGlUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyOpenGlUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ACAA82A1EBC5FC100C649B5 /* MyOpenGlUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyOpenGlUITests.m; sourceTree = "<group>"; };
 		8ACAA82C1EBC5FC100C649B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8ACAA8381EBC74A100C649B5 /* Demo Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Demo Resources"; path = "../../../../../Downloads/Demo Resources"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		8ACAA8041EBC5FC000C649B5 /* MyOpenGl */ = {
 			isa = PBXGroup;
 			children = (
+				8ACAA8381EBC74A100C649B5 /* Demo Resources */,
 				8ACAA8081EBC5FC000C649B5 /* AppDelegate.h */,
 				8ACAA8091EBC5FC000C649B5 /* AppDelegate.m */,
 				8ACAA80B1EBC5FC000C649B5 /* ViewController.h */,
@@ -248,6 +251,7 @@
 			files = (
 				8ACAA8151EBC5FC000C649B5 /* LaunchScreen.storyboard in Resources */,
 				8ACAA8121EBC5FC000C649B5 /* Assets.xcassets in Resources */,
+				8ACAA8391EBC74A100C649B5 /* Demo Resources in Resources */,
 				8ACAA8101EBC5FC000C649B5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
